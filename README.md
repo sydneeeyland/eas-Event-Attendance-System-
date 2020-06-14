@@ -1,7 +1,7 @@
 Event Attendance System
 
-#Features:
-#• Check Attendance
-#• Display Attendances
-#• Generate Reports
-#• Generate Fines for lack of attendance
+Features: <br>
+<br>• Check Attendance
+<br>• Display Attendances
+<br>• Generate Reports
+<br>• Generate Fines for lack of attendance
